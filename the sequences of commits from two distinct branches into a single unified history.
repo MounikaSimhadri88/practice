@@ -1,0 +1,49 @@
+[33mcommit e96ff782f3526b7cbb1b30e4410b45c8ad2eae59[m[33m ([m[1;36mHEAD -> [m[1;32mfirst-update[m[33m, [m[1;31morigin/first-update[m[33m)[m
+Author: MounikaSimhadri88 <surya.mouni547@gmail.com>
+Date:   Mon Jul 22 02:16:15 2024 +0000
+
+    saving
+
+[33mcommit ce7e24944a05134fb402fa20e2d70397742d6240[m[33m ([m[1;33mtag: v1[m[33m, [m[1;31morigin/second-update[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: MounikaSimhadri88 <surya.mouni547@gmail.com>
+Date:   Sat Jul 20 06:25:19 2024 +0000
+
+    saving
+
+[33mcommit 0b204b3b81a930e3eb9646bd4f89662fecf1fe7f[m
+Author: Mounika <surya.mouni547@gmail.com>
+Date:   Sat Jul 20 02:01:49 2024 +0000
+
+    saving
+
+[33mcommit febaf37b09cd85655cca7ab9e6cae71c2619cfcd[m
+Author: Mounika <surya.mouni547@gmail.com>
+Date:   Sat Jul 20 01:33:40 2024 +0000
+
+    saving
+
+[33mcommit fcda0775c08a23fd499ff1ab1c6781102985b4e0[m
+Author: Mounika <surya.mouni547@gmail.com>
+Date:   Sat Jul 20 01:25:09 2024 +0000
+
+    Revert "3.txt saving"
+    
+    This reverts commit 4b6323a9e032ebcbe42a4782676fe495e1daffc9.
+
+[33mcommit 4b6323a9e032ebcbe42a4782676fe495e1daffc9[m
+Author: Mounika <surya.mouni547@gmail.com>
+Date:   Sat Jul 20 01:21:06 2024 +0000
+
+    3.txt saving
+
+[33mcommit 46cfcaed72971906afd5c2b9e6d4db290a259a6b[m
+Author: Mounika <surya.mouni547@gmail.com>
+Date:   Sat Jul 20 01:09:58 2024 +0000
+
+    saving
+
+[33mcommit 0d148051dc9709b86cfabb0c679e7db314bc092b[m
+Author: EC2 Default User <ec2-user@ip-172-31-30-213.ap-southeast-1.compute.internal>
+Date:   Sat Jul 20 01:03:55 2024 +0000
+
+    saving 1.txt
